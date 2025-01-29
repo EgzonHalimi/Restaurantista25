@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Arbrim Thaci",
+        "role": "CEO",
+        "image": "Photo.img/Enes-Shala.png",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde hic"
+    },
+    {
+        "name": "Enes Shala",
+        "role": "Lead Front-end",
+        "image": "Photo.img/Enes-Shala.png",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde hic"
+    },
+    {
+        "name": "Egzon Halimi",
+        "role": "Lead Designer",
+        "image": "Photo.img/Enes-Shala.png",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde hic"
+    },
+    {
+        "name": "Egzon Halimi",
+        "role": "CEO",
+        "image": "Photo.img/Enes-Shala.png",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde hic"
+    }
+]
